@@ -1,0 +1,57 @@
+.main {
+  /* text-align: center; */
+  background-color: blanchedalmond;
+  font-family: "Poppins", sans-serif;
+  background: #fff8f2;
+  padding: 20px;
+  margin: 0;
+}
+.first {
+  text-align: center;
+}
+.img1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+  margin-top: 6px;
+}
+.description,
+.Ingredients,
+.steps {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: left;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  font-size: 3rem;
+  color: #d16ba5;
+  margin-bottom: 5px;
+}
+.ul,
+.ol {
+  margin-left: 50px;
+  font-size: 1.1rem;
+}
+
+h2 {
+  color: #a148b5;
+  margin-left: 5px;
+}
+.btn {
+  margin: auto 190px 20px 190px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #86a8e7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #6b90e4;
+}

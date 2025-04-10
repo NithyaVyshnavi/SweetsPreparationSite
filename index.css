@@ -1,0 +1,77 @@
+.first {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.main {
+  background-color: rgb(239, 206, 194);
+}
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: rgb(101, 41, 242);
+}
+.gulab {
+  width: 300px;
+  height: 300px;
+  margin-left: 5px;
+  border: black 1px solid;
+  margin-bottom: 6px;
+  display: block;
+}
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5,
+.btn6,
+.btn7,
+.btn8,
+.btn9,
+.btn10,
+.btn11,
+.btn12 {
+  margin-top: 3px;
+  margin-left: 10px;
+  font-size: 25px;
+  color: rgb(239, 238, 239);
+  background-color: rgb(109, 64, 50);
+  opacity: 0.7;
+  border: black 1px solid;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7,
+.img8,
+.img9,
+.img10,
+.img11,
+.img12 {
+  text-align: center;
+}
+.malpuri,
+.kalakani,
+.kajubarfi,
+.kesari,
+.rasagulla,
+.bobbatlu,
+.mysorepak,
+.jilebi,
+.laddu,
+.kaja,
+.gavallu {
+  width: 300px;
+  height: 300px;
+  margin-left: 5px;
+  border: black 1px solid;
+  margin-bottom: 6px;
+  display: block;
+}
